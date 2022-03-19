@@ -1,0 +1,29 @@
+{
+  "lang": "中文", 
+  "requestDemo": "Request demo",
+  "heroTitle": "The \"Game\" Changer",
+  "heroSubtext": "Quantifying talent through game-based assessments that measure skills and cognitive abilities",
+  "playNow": "Play Now",
+  "findRightGuyTitle": "Recruit People.{0}Not Paper.",
+  "findRightGuyText": "Evaluating people solely based on past experiences is no longer sufficient. We provide an evidence-centered method to objectively quantify soft skills.",
+  "trustTheScienceTitle": "Trust the{0}Science.",
+  "trustTheScienceTitleText": "Supported by psychometrics and behavioral science, we provide data-driven analyses to help you avoid unconscious bias when making hiring decisions.",
+  "qualityIsBetterTitle": "Quality over{0}Quantity.",
+  "qualityIsBetterTitleText": "High turnover is detrimental. We're here to help you hire right by identifying top talent from the get-go.",
+  "candidatesReachedText": {
+    "template": "{0}{1}Curious as to how our games help optimize{2}your recruitment process?{3}to learn more",
+    "reached": "candidates reached",
+    "contactUs": "Contact us"
+  },
+  "insulaIntro": {
+    "template":"{0}our game platform, features a portfolio of games measuring skills and abilities such as critical thinking, planning, or working memory. The data extracted from in-game actions are consolidated in an in-depth report detailing a candidate's performance.",
+    "insula": "Insula, "
+  },
+  "measuringUnmeasurable": "Measuring the Unmeasurable",
+  "measuringText": "Our games measure skills and abilities that are hard to quantify but are crucial to job performance. Leveraging data science and psychology, we are bridging the gap between actual and perceived job performance.",
+  "gameBasedAssessments": "Game-Based{0}Assessments",
+  "covering": "covering",
+  "competencyAreas": "Competency{0}Areas",
+  "contactUsFooter": "Let’s Connect",
+  "privacyPolicy": "Privacy Policy"
+} 

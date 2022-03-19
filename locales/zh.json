@@ -1,0 +1,29 @@
+{
+  "lang": "English",
+  "requestDemo": "申請試用",
+  "heroTitle": "The \"Game\" Changer",
+  "heroSubtext": "透過遊戲評測，{0}量化人才的技能和認知能力",
+  "playNow": "開始挑戰",
+  "findRightGuyTitle": "找對人{0}不是找到人",
+  "findRightGuyText": "讓選對人才不只靠經驗法則。我們以實證設計(Evidence-centered design)量化候選人的軟技能(Soft skills)。",
+  "trustTheScienceTitle": "相信科學",
+  "trustTheScienceTitleText": "在心理學和行為科學的支持下，我們提供數據驅動的分析，降低招募人才時無意識的偏見。",
+  "qualityIsBetterTitle": "質勝於量",
+  "qualityIsBetterTitleText": "降低流動率，讓我們幫助您慧眼獨具，從一開始辨識頂尖人才，達到正確聘用。",
+  "candidatesReachedText": {
+    "template": "{0}{1}好奇我們的遊戲評測如何最佳化招募流程嗎?{2}{3}了解更多",
+    "reached": "位候選人加入",
+    "contactUs": "聯繫我們"
+  },
+  "insulaIntro": {
+    "template":"{0}具一系列遊戲可衡量技能與能力，例如：批判性思考、計劃能力或工作記憶等。從遊戲中蒐集大量數據，呈現深度分析報告。",
+    "insula": "Insula "
+  },
+  "measuringUnmeasurable": "洞悉未知",
+  "measuringText": "{0} 遊戲可測得難以量化的關鍵技能與能力。運用數據科學和心理學，讓工作適配性不再有落差。",
+  "gameBasedAssessments": "遊戲評測",
+  "covering": "涵蓋",
+  "competencyAreas": "項職能領域",
+  "contactUsFooter": "聯繫我們",
+  "privacyPolicy": "隱私權政策"
+}

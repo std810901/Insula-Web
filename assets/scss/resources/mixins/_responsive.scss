@@ -1,0 +1,60 @@
+// 992~1439
+@mixin table-width-between-pc-width() {
+  @media all and (min-width: 992px) and (max-width: 1439px) {
+    @content;
+  }
+}
+// ~991
+@mixin table-width() {
+  @media all and (max-width: 991px) {
+    @content; 
+  }
+}
+// ~768
+@mixin mobile-width-between-table-width() {
+  @media all and (max-width: 767px) {
+    @content;
+  }
+}
+// ~640
+@mixin sm-table-width() {
+  @media all and (max-width: 640px) {
+    @content;
+  }
+}
+// ~576
+@mixin mobile-width() {
+  @media all and (max-width: 576px) {
+    @content;
+  }
+}
+
+@mixin sm-mobile-width() {
+  @media all and (max-width: 450px) {
+    @content;
+  }
+}
+
+
+// 以下為擴充
+// up -- only min
+
+@mixin up-pc-width() {
+  @media all and (min-width: 1440px) {
+    @content;
+  }
+}
+
+@mixin up-table-width() {
+  @media all and (min-width: 992px) {
+    @content;
+  }
+}
+
+// down -- only max
+
+@mixin down-pc-width() {
+  @media all and (max-width: 1439px) {
+    @content;
+  }
+}

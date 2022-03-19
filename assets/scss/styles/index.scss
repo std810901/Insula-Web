@@ -1,0 +1,15 @@
+
+@import './customs/custom-setting.scss';
+@import './form.scss';
+@import './9Careers.scss';
+@import './homepage.scss';
+
+html {
+  scroll-behavior: smooth;
+  body {
+    font-family: 'Montserrat', '微軟正黑體';
+    .modal-backdrop.show {
+      opacity: 0.9;
+    }
+  }
+}
