@@ -3,7 +3,6 @@ console.log('讀取nuxt config')
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
-  mode: 'universal',
   head: {
     title: 'Insula',
     meta: [
