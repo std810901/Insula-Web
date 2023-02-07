@@ -2,6 +2,8 @@ console.log('讀取nuxt config')
 
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: 'static',
+  mode: 'universal',
   head: {
     title: 'Insula',
     meta: [
@@ -99,7 +101,7 @@ export default {
     id: 'G-Q96BCQMRF6', // 必填，請填寫剛申請到的追蹤碼ID
     config:{
       // 這裡是填寫對gtag的需求選項
-      anonymize_ip: true, 
+      anonymize_ip: true,
       send_page_view: false, // 避免頁面刷新時後的重複追蹤
       linker:{ // 跨域追蹤，追蹤兩個相關但不同網域的頁面
         domains:['insula.ai']
